@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T09:56:48.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" version="20.3.3" etag="n9sHZc73kZ8_7jxe2AeL" type="github"><diagram id="tKasEzpKHn50Yd32CoTa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-20T10:23:14.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="P-WiaYMtJM3IsrTM3e6m" version="20.3.3" type="github">
+  <diagram id="tKasEzpKHn50Yd32CoTa" name="Sivu-1">
+    <mxGraphModel dx="1102" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-9" value="start page" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-10" value="log in&amp;nbsp;&lt;br&gt;sign in" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-9">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTqHND6VBLXTgPWzmqVA-10" target="lTqHND6VBLXTgPWzmqVA-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTqHND6VBLXTgPWzmqVA-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="240" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-13" value="sign in" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-14" value="gmail&lt;br&gt;salasana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-13">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-15" value="log in" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-16" value="gmail&amp;nbsp;&lt;br&gt;salasana&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-15">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTqHND6VBLXTgPWzmqVA-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="210" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="lTqHND6VBLXTgPWzmqVA-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="200" as="sourcePoint" />
+            <mxPoint x="430" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-19" value="kauppa" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-20" value="tuote&lt;br&gt;support&amp;nbsp;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-19">
+          <mxGeometry y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="lTqHND6VBLXTgPWzmqVA-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="290" as="sourcePoint" />
+            <mxPoint x="640" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-22" value="Tuote" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-23" value="Tuote tiedot&lt;br&gt;hinta&amp;nbsp;&lt;br&gt;lisää ostoskoriin&lt;br&gt;takaisin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-22">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.318;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lTqHND6VBLXTgPWzmqVA-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="sourcePoint" />
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-25" value="support " style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-26" value="gmail: mattimeikalainen@gmail.com&lt;br&gt;puh.045 1234567" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-25">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lTqHND6VBLXTgPWzmqVA-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="280" as="sourcePoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-32" value="ostoskori" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-33" value="Tuotteiden hinta&amp;nbsp;&lt;br&gt;jatka ostamaan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-32">
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lTqHND6VBLXTgPWzmqVA-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="520" as="sourcePoint" />
+            <mxPoint x="330" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-36" value="Tiedot" style="swimlane;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lTqHND6VBLXTgPWzmqVA-37" value="tilinumero&lt;br&gt;nimi&lt;br&gt;postiosoite&amp;nbsp;&lt;br&gt;katuosoite&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="lTqHND6VBLXTgPWzmqVA-36">
+          <mxGeometry y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
